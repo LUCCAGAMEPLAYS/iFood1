@@ -1,0 +1,23 @@
+.submit-lente {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    // top:0; right:0;
+    z-index:10;
+    border:none;
+    background:transparent;
+    outline:none;
+  }
+  
+  .submit-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 200px;
+  }
+  
+  .submit-line input {
+    width: 100%;
+  }
